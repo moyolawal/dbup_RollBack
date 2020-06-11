@@ -1,0 +1,12 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\netstandard1.3\dbup-redshift.deps.json
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\netstandard1.3\dbup-redshift.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\netstandard1.3\dbup-redshift.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\netstandard1.3\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\netstandard1.3\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\netstandard1.3\dbup-redshift.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\netstandard1.3\dbup-redshift.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\netstandard1.3\dbup-redshift.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\netstandard1.3\dbup-redshift.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\netstandard1.3\dbup-redshift.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\netstandard1.3\dbup-redshift.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\netstandard1.3\dbup-redshift.pdb

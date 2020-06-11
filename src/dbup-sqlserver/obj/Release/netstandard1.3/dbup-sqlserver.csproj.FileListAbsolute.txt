@@ -1,0 +1,12 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\bin\Release\netstandard1.3\dbup-sqlserver.deps.json
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\bin\Release\netstandard1.3\dbup-sqlserver.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\bin\Release\netstandard1.3\dbup-sqlserver.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\bin\Release\netstandard1.3\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\bin\Release\netstandard1.3\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\netstandard1.3\dbup-sqlserver.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\netstandard1.3\dbup-sqlserver.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\netstandard1.3\dbup-sqlserver.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\netstandard1.3\dbup-sqlserver.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\netstandard1.3\dbup-sqlserver.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\netstandard1.3\dbup-sqlserver.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\netstandard1.3\dbup-sqlserver.pdb

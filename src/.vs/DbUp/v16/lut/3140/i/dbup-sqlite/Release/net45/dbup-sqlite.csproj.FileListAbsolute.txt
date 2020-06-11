@@ -1,0 +1,6 @@
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-sqlite\Release\net45\dbup-sqlite.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-sqlite\Release\net45\dbup-sqlite.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-sqlite\Release\net45\dbup-sqlite.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-sqlite\Release\net45\dbup-sqlite.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-sqlite\Release\net45\dbup-sqlite.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-sqlite\Release\net45\dbup-sqlite.dll

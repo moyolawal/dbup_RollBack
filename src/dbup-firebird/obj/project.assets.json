@@ -1,0 +1,151 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "FirebirdSql.Data.FirebirdClient/4.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40-client/FirebirdSql.Data.FirebirdClient.dll": {}
+        },
+        "runtime": {
+          "lib/net40-client/FirebirdSql.Data.FirebirdClient.dll": {}
+        }
+      },
+      "dbup-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v3.5",
+        "compile": {
+          "bin/placeholder/dbup-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dbup-core.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5": {
+      "FirebirdSql.Data.FirebirdClient/4.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/FirebirdSql.Data.FirebirdClient.dll": {}
+        },
+        "runtime": {
+          "lib/net45/FirebirdSql.Data.FirebirdClient.dll": {}
+        }
+      },
+      "dbup-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "compile": {
+          "bin/placeholder/dbup-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dbup-core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirebirdSql.Data.FirebirdClient/4.5.2": {
+      "sha512": "m7dvD1fVcXQmaUJV0ThCZo4Caz9Ze00NhG/8070F8LYh5vCJkPBgMJGmVrwlb0AxJraYYQpAPws+9OOMRGgI1g==",
+      "type": "package",
+      "path": "firebirdsql.data.firebirdclient/4.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/app.config.transform",
+        "content/web.config.transform",
+        "firebirdsql.data.firebirdclient.4.5.2.nupkg.sha512",
+        "firebirdsql.data.firebirdclient.nuspec",
+        "lib/net40-client/FirebirdSql.Data.FirebirdClient.dll",
+        "lib/net40-client/FirebirdSql.Data.FirebirdClient.pdb",
+        "lib/net45/FirebirdSql.Data.FirebirdClient.dll",
+        "lib/net45/FirebirdSql.Data.FirebirdClient.pdb",
+        "readme.txt"
+      ]
+    },
+    "dbup-core/1.0.0": {
+      "type": "project",
+      "path": "../dbup-core/dbup-core.csproj",
+      "msbuildProject": "../dbup-core/dbup-core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "FirebirdSql.Data.FirebirdClient >= 4.5.2",
+      "dbup-core >= 1.0.0"
+    ],
+    ".NETFramework,Version=v4.5": [
+      "FirebirdSql.Data.FirebirdClient >= 4.5.2",
+      "dbup-core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MOYO-PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-firebird\\dbup-firebird.csproj",
+      "projectName": "dbup-firebird",
+      "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-firebird\\dbup-firebird.csproj",
+      "packagesPath": "C:\\Users\\MOYO-PC\\.nuget\\packages\\",
+      "outputPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-firebird\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\MOYO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40",
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "projectReferences": {
+            "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj": {
+              "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj"
+            }
+          }
+        },
+        "net45": {
+          "projectReferences": {
+            "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj": {
+              "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "dependencies": {
+          "FirebirdSql.Data.FirebirdClient": {
+            "target": "Package",
+            "version": "[4.5.2, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      },
+      "net45": {
+        "dependencies": {
+          "FirebirdSql.Data.FirebirdClient": {
+            "target": "Package",
+            "version": "[4.5.2, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

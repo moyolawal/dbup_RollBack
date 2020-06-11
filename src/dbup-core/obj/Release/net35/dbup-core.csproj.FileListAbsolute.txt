@@ -1,0 +1,8 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\bin\Release\net35\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\bin\Release\net35\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\net35\dbup-core.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\net35\dbup-core.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\net35\dbup-core.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\net35\dbup-core.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\net35\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\net35\dbup-core.pdb

@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "Microsoft.SqlServer.Compact/4.0.8876.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/System.Data.SqlServerCe.dll": {}
+        },
+        "runtime": {
+          "lib/net40/System.Data.SqlServerCe.dll": {}
+        }
+      },
+      "dbup-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v3.5",
+        "compile": {
+          "bin/placeholder/dbup-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dbup-core.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5": {
+      "Microsoft.SqlServer.Compact/4.0.8876.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/System.Data.SqlServerCe.dll": {}
+        },
+        "runtime": {
+          "lib/net40/System.Data.SqlServerCe.dll": {}
+        }
+      },
+      "dbup-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "compile": {
+          "bin/placeholder/dbup-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dbup-core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.SqlServer.Compact/4.0.8876.1": {
+      "sha512": "CKh6YxPd7/FApB3y5/mZyqkTVKDkbYFUf/tbDAwHlKLrIKRlJ7/VPLMqHX0izl4B0Yey+qMIVo7izGTSi/9ang==",
+      "type": "package",
+      "path": "microsoft.sqlserver.compact/4.0.8876.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/web.config.transform",
+        "NativeBinaries/amd64/Microsoft.VC90.CRT/Microsoft.VC90.CRT.manifest",
+        "NativeBinaries/amd64/Microsoft.VC90.CRT/README_ENU.txt",
+        "NativeBinaries/amd64/Microsoft.VC90.CRT/msvcr90.dll",
+        "NativeBinaries/amd64/sqlceca40.dll",
+        "NativeBinaries/amd64/sqlcecompact40.dll",
+        "NativeBinaries/amd64/sqlceer40EN.dll",
+        "NativeBinaries/amd64/sqlceme40.dll",
+        "NativeBinaries/amd64/sqlceqp40.dll",
+        "NativeBinaries/amd64/sqlcese40.dll",
+        "NativeBinaries/x86/Microsoft.VC90.CRT/Microsoft.VC90.CRT.manifest",
+        "NativeBinaries/x86/Microsoft.VC90.CRT/README_ENU.txt",
+        "NativeBinaries/x86/Microsoft.VC90.CRT/msvcr90.dll",
+        "NativeBinaries/x86/sqlceca40.dll",
+        "NativeBinaries/x86/sqlcecompact40.dll",
+        "NativeBinaries/x86/sqlceer40EN.dll",
+        "NativeBinaries/x86/sqlceme40.dll",
+        "NativeBinaries/x86/sqlceqp40.dll",
+        "NativeBinaries/x86/sqlcese40.dll",
+        "SQLCE_EULA_ENU.rtf",
+        "lib/net40/System.Data.SqlServerCe.dll",
+        "microsoft.sqlserver.compact.4.0.8876.1.nupkg.sha512",
+        "microsoft.sqlserver.compact.nuspec",
+        "tools/Install.ps1",
+        "tools/Uninstall.ps1",
+        "tools/VS.psd1",
+        "tools/VS.psm1"
+      ]
+    },
+    "dbup-core/1.0.0": {
+      "type": "project",
+      "path": "../dbup-core/dbup-core.csproj",
+      "msbuildProject": "../dbup-core/dbup-core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "Microsoft.SqlServer.Compact >= 4.0.8876.1",
+      "dbup-core >= 1.0.0"
+    ],
+    ".NETFramework,Version=v4.5": [
+      "Microsoft.SqlServer.Compact >= 4.0.8876.1",
+      "dbup-core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MOYO-PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlce\\dbup-sqlce.csproj",
+      "projectName": "dbup-sqlce",
+      "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlce\\dbup-sqlce.csproj",
+      "packagesPath": "C:\\Users\\MOYO-PC\\.nuget\\packages\\",
+      "outputPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlce\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\MOYO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40",
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "projectReferences": {
+            "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj": {
+              "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj"
+            }
+          }
+        },
+        "net45": {
+          "projectReferences": {
+            "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj": {
+              "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "dependencies": {
+          "Microsoft.SqlServer.Compact": {
+            "target": "Package",
+            "version": "[4.0.8876.1, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      },
+      "net45": {
+        "dependencies": {
+          "Microsoft.SqlServer.Compact": {
+            "target": "Package",
+            "version": "[4.0.8876.1, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

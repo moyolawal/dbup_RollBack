@@ -1,0 +1,6 @@
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-redshift\Release\netstandard1.3\dbup-redshift.deps.json
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-redshift\Release\netstandard1.3\dbup-redshift.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-redshift\Release\netstandard1.3\dbup-redshift.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-redshift\Release\netstandard1.3\dbup-redshift.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-redshift\Release\netstandard1.3\dbup-redshift.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-redshift\Release\netstandard1.3\dbup-redshift.dll

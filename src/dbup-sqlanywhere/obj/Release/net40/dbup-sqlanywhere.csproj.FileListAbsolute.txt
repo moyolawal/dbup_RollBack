@@ -1,0 +1,12 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\bin\Release\net40\dbup-sqlanywhere.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\bin\Release\net40\dbup-sqlanywhere.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\bin\Release\net40\Sap.Data.SQLAnywhere.v3.5.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\bin\Release\net40\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\bin\Release\net40\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\obj\Release\net40\dbup-sqlanywhere.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\obj\Release\net40\dbup-sqlanywhere.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\obj\Release\net40\dbup-sqlanywhere.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\obj\Release\net40\dbup-sqlanywhere.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\obj\Release\net40\dbup-sqlanywhere.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\obj\Release\net40\dbup-sqlanywhere.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlanywhere\obj\Release\net40\dbup-sqlanywhere.pdb

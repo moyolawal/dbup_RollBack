@@ -1,0 +1,14 @@
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-tests\Release\net46\xunit.runner.visualstudio.testadapter.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-tests\Release\net46\xunit.runner.reporters.net452.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-tests\Release\net46\xunit.runner.utility.net452.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-tests\Release\net46\xunit.abstractions.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-tests\Release\net46\TestFilterFiles\ScriptNames.txt
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-tests\Release\net46\dbup-tests.runtimeconfig.json
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-tests\Release\net46\dbup-tests.runtimeconfig.dev.json
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-tests\Release\net46\dbup-tests.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-tests\Release\net46\dbup-tests.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-tests\Release\net46\dbup-tests.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-tests\Release\net46\dbup-tests.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-tests\Release\net46\dbup-tests.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-tests\Release\net46\dbup-tests.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-tests\Release\net46\dbup-tests.genruntimeconfig.cache

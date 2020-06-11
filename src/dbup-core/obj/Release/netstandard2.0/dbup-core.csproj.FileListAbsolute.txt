@@ -1,0 +1,9 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\bin\Release\netstandard2.0\dbup-core.deps.json
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\bin\Release\netstandard2.0\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\bin\Release\netstandard2.0\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\netstandard2.0\dbup-core.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\netstandard2.0\dbup-core.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\netstandard2.0\dbup-core.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\netstandard2.0\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\netstandard2.0\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-core\obj\Release\netstandard2.0\dbup-core.csprojAssemblyReference.cache

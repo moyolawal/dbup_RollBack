@@ -1,0 +1,12 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\bin\Release\netstandard2.0\dbup-mysql.deps.json
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\bin\Release\netstandard2.0\dbup-mysql.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\bin\Release\netstandard2.0\dbup-mysql.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\bin\Release\netstandard2.0\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\bin\Release\netstandard2.0\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\obj\Release\netstandard2.0\dbup-mysql.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\obj\Release\netstandard2.0\dbup-mysql.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\obj\Release\netstandard2.0\dbup-mysql.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\obj\Release\netstandard2.0\dbup-mysql.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\obj\Release\netstandard2.0\dbup-mysql.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\obj\Release\netstandard2.0\dbup-mysql.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-mysql\obj\Release\netstandard2.0\dbup-mysql.pdb

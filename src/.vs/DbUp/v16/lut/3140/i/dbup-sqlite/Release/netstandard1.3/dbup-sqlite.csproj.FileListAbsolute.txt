@@ -1,0 +1,2 @@
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-sqlite\Release\netstandard1.3\dbup-sqlite.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-sqlite\Release\netstandard1.3\dbup-sqlite.AssemblyInfo.cs

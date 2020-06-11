@@ -1,0 +1,12 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\bin\Release\net45\dbup-sqlce.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\bin\Release\net45\dbup-sqlce.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\bin\Release\net45\System.Data.SqlServerCe.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\bin\Release\net45\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\bin\Release\net45\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\obj\Release\net45\dbup-sqlce.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\obj\Release\net45\dbup-sqlce.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\obj\Release\net45\dbup-sqlce.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\obj\Release\net45\dbup-sqlce.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\obj\Release\net45\dbup-sqlce.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\obj\Release\net45\dbup-sqlce.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlce\obj\Release\net45\dbup-sqlce.pdb

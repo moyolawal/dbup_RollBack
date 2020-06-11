@@ -1,0 +1,36 @@
+[23:13:26.483 Verbose] - BuildManager - G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\SQLiteTableJournal.cs(47,35): error CS0115: 'SQLiteTableJournal.GetRemoveJournalEntrySql(string)': no suitable method found to override
+[23:13:26.486 Verbose] - BuildManager - Some of the file paths defined in the csproj under the Live Unit Testing build path are missing. Verify whether these files should be present under the Live Unit Testing build path and if necessary update the csproj definition to look these files up in a different place.
+[23:13:26.486 Verbose] - BuildManager - Item _OutputPathItem 'G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-sqlite\Release\netstandard1.3\' evaluated via:
+_OutputPathItem: '$(OutDir)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:272
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:193
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\3.1.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:186
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\3.1.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-sqlite\' @ G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\dbup-sqlite.csproj:0
+        Configuration: 'Release'
+[23:13:26.487 Verbose] - BuildManager - Item AppConfigFileDestination 'G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-sqlite\Release\netstandard1.3\dbup-sqlite.dll.config' evaluated via:
+AppConfigFileDestination: '$(OutDir)$(TargetFileName).config' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:303
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:193
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\3.1.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:186
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\3.1.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-sqlite\' @ G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\dbup-sqlite.csproj:0
+        Configuration: 'Release'
+  TargetFileName: '$(TargetName)$(TargetExt)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:212
+    TargetName: '$(AssemblyName)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:204
+      AssemblyName: 'dbup-sqlite' @ G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\dbup-sqlite.csproj:8
+    TargetExt: '.dll' @ C:\Program Files\dotnet\sdk\3.1.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.BeforeCommon.targets:82
+[23:13:26.487 Verbose] - BuildManager - Item _DebugSymbolsOutputPath 'G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-sqlite\Release\netstandard1.3\dbup-sqlite.pdb' evaluated via:
+_DebugSymbolsOutputPath: '@(_DebugSymbolsIntermediatePath->'$(OutDir)%(Filename)%(Extension)')' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:372
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:193
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\3.1.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:186
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\3.1.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-sqlite\' @ G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\dbup-sqlite.csproj:0
+        Configuration: 'Release'
+[23:13:26.487 Verbose] - BuildManager - Item _ApplicationManifestFinal 'G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-sqlite\Release\netstandard1.3\Native.dbup-sqlite.manifest' evaluated via:
+_ApplicationManifestFinal: '$(OutDir)$(_DeploymentTargetApplicationManifestFileName)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:410
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:193
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\3.1.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:186
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\3.1.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\dbup-sqlite\' @ G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\dbup-sqlite.csproj:0
+        Configuration: 'Release'
+  _DeploymentTargetApplicationManifestFileName: 'Native.$(AssemblyName).manifest' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:228
+    AssemblyName: 'dbup-sqlite' @ G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\dbup-sqlite.csproj:8

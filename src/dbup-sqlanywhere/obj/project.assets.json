@@ -1,0 +1,145 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "Sap.Data.SQLAnywhere/17.0.7.3399": {
+        "type": "package",
+        "compile": {
+          "lib/net35/Sap.Data.SQLAnywhere.v3.5.dll": {}
+        },
+        "runtime": {
+          "lib/net35/Sap.Data.SQLAnywhere.v3.5.dll": {}
+        }
+      },
+      "dbup-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v3.5",
+        "compile": {
+          "bin/placeholder/dbup-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dbup-core.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5": {
+      "Sap.Data.SQLAnywhere/17.0.7.3399": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Sap.Data.SQLAnywhere.v4.5.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Sap.Data.SQLAnywhere.v4.5.dll": {}
+        }
+      },
+      "dbup-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "compile": {
+          "bin/placeholder/dbup-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dbup-core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sap.Data.SQLAnywhere/17.0.7.3399": {
+      "sha512": "zpso8cm4TcrVnt6f4159ApCij3L/icEwlw69uq4dv/gdhUdmDdFpodvWZV38pwYaIcRs6S6YQrtLH1RNgKQe7Q==",
+      "type": "package",
+      "path": "sap.data.sqlanywhere/17.0.7.3399",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Sap.Data.SQLAnywhere.v3.5.dll",
+        "lib/net45/Sap.Data.SQLAnywhere.v4.5.dll",
+        "sap.data.sqlanywhere.17.0.7.3399.nupkg.sha512",
+        "sap.data.sqlanywhere.nuspec"
+      ]
+    },
+    "dbup-core/1.0.0": {
+      "type": "project",
+      "path": "../dbup-core/dbup-core.csproj",
+      "msbuildProject": "../dbup-core/dbup-core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "Sap.Data.SQLAnywhere >= 17.0.7.3399",
+      "dbup-core >= 1.0.0"
+    ],
+    ".NETFramework,Version=v4.5": [
+      "Sap.Data.SQLAnywhere >= 17.0.7.3399",
+      "dbup-core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MOYO-PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlanywhere\\dbup-sqlanywhere.csproj",
+      "projectName": "dbup-sqlanywhere",
+      "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlanywhere\\dbup-sqlanywhere.csproj",
+      "packagesPath": "C:\\Users\\MOYO-PC\\.nuget\\packages\\",
+      "outputPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlanywhere\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\MOYO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40",
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "projectReferences": {
+            "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj": {
+              "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj"
+            }
+          }
+        },
+        "net45": {
+          "projectReferences": {
+            "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj": {
+              "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "dependencies": {
+          "Sap.Data.SQLAnywhere": {
+            "target": "Package",
+            "version": "[17.0.7.3399, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      },
+      "net45": {
+        "dependencies": {
+          "Sap.Data.SQLAnywhere": {
+            "target": "Package",
+            "version": "[17.0.7.3399, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

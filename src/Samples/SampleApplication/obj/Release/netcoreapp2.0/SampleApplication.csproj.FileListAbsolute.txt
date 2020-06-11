@@ -1,0 +1,17 @@
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\bin\Release\netcoreapp2.0\SampleApplication.deps.json
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\bin\Release\netcoreapp2.0\SampleApplication.runtimeconfig.json
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\bin\Release\netcoreapp2.0\SampleApplication.runtimeconfig.dev.json
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\bin\Release\netcoreapp2.0\SampleApplication.dll
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\bin\Release\netcoreapp2.0\SampleApplication.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\bin\Release\netcoreapp2.0\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\bin\Release\netcoreapp2.0\dbup-sqlserver.dll
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\bin\Release\netcoreapp2.0\dbup-sqlserver.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\bin\Release\netcoreapp2.0\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\obj\Release\netcoreapp2.0\SampleApplication.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\obj\Release\netcoreapp2.0\SampleApplication.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\obj\Release\netcoreapp2.0\SampleApplication.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\obj\Release\netcoreapp2.0\SampleApplication.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\obj\Release\netcoreapp2.0\SampleApplication.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\obj\Release\netcoreapp2.0\SampleApplication.dll
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\obj\Release\netcoreapp2.0\SampleApplication.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\Samples\SampleApplication\obj\Release\netcoreapp2.0\SampleApplication.genruntimeconfig.cache

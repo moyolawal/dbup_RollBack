@@ -1,0 +1,11 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\bin\Release\net35\dbup-sqlserver.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\bin\Release\net35\dbup-sqlserver.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\bin\Release\net35\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\bin\Release\net35\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\net35\dbup-sqlserver.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\net35\dbup-sqlserver.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\net35\dbup-sqlserver.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\net35\dbup-sqlserver.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\net35\dbup-sqlserver.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\net35\dbup-sqlserver.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlserver\obj\Release\net35\dbup-sqlserver.pdb

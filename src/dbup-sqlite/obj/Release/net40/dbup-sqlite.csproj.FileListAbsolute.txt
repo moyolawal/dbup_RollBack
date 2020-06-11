@@ -1,0 +1,12 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\bin\Release\net40\dbup-sqlite.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\bin\Release\net40\dbup-sqlite.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\bin\Release\net40\System.Data.SQLite.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\bin\Release\net40\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\bin\Release\net40\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\obj\Release\net40\dbup-sqlite.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\obj\Release\net40\dbup-sqlite.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\obj\Release\net40\dbup-sqlite.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\obj\Release\net40\dbup-sqlite.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\obj\Release\net40\dbup-sqlite.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\obj\Release\net40\dbup-sqlite.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-sqlite\obj\Release\net40\dbup-sqlite.pdb

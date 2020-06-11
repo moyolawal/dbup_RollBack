@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7io6Zm58YeQXSrNQalRRfzBFB45ouvGx0lorEU0OHAn79IkkBY9tfJXToFMgGk54Ne5VJTsgYLA/3oyiypttvg==",
+  "success": true,
+  "projectFilePath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-firebird\\dbup-firebird.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOYO-PC\\.nuget\\packages\\firebirdsql.data.firebirdclient\\4.5.2\\firebirdsql.data.firebirdclient.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

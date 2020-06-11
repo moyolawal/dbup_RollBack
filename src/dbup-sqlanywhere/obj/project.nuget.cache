@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qt6M3TiT8Fzcp9o05AG9yBkzh69oDCvHRt/AbnIGgtJyumSi4iZzBjx1b9qHsUveaegcoLVZXzzio5hgHaXxmg==",
+  "success": true,
+  "projectFilePath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlanywhere\\dbup-sqlanywhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOYO-PC\\.nuget\\packages\\sap.data.sqlanywhere\\17.0.7.3399\\sap.data.sqlanywhere.17.0.7.3399.nupkg.sha512"
+  ],
+  "logs": []
+}

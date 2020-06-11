@@ -1,0 +1,2 @@
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-firebird\Release\net40\dbup-firebird.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-firebird\Release\net40\dbup-firebird.AssemblyInfo.cs

@@ -1,0 +1,13 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\net45\dbup-redshift.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\net45\dbup-redshift.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\net45\Npgsql.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\net45\System.Threading.Tasks.Extensions.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\net45\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\bin\Release\net45\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\net45\dbup-redshift.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\net45\dbup-redshift.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\net45\dbup-redshift.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\net45\dbup-redshift.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\net45\dbup-redshift.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\net45\dbup-redshift.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-redshift\obj\Release\net45\dbup-redshift.pdb

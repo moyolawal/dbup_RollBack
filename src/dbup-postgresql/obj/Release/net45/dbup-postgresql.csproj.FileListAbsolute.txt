@@ -1,0 +1,13 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\net45\dbup-postgresql.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\net45\dbup-postgresql.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\net45\Npgsql.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\net45\System.Threading.Tasks.Extensions.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\net45\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\net45\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\net45\dbup-postgresql.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\net45\dbup-postgresql.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\net45\dbup-postgresql.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\net45\dbup-postgresql.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\net45\dbup-postgresql.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\net45\dbup-postgresql.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\net45\dbup-postgresql.pdb

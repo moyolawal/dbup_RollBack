@@ -1,0 +1,12 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\netstandard2.0\dbup-postgresql.deps.json
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\netstandard2.0\dbup-postgresql.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\netstandard2.0\dbup-postgresql.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\netstandard2.0\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\bin\Release\netstandard2.0\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\netstandard2.0\dbup-postgresql.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\netstandard2.0\dbup-postgresql.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\netstandard2.0\dbup-postgresql.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\netstandard2.0\dbup-postgresql.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\netstandard2.0\dbup-postgresql.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\netstandard2.0\dbup-postgresql.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-postgresql\obj\Release\netstandard2.0\dbup-postgresql.pdb

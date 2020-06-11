@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hxnNeWZTWQxrPbgs0XaNXb290Lfq9k4Ote1ZZs6pVW3334H9OSKUg6gMYBRfT7/OcShwDnFRe6LWR5hSW1VrkA==",
+  "success": true,
+  "projectFilePath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlite-mono\\dbup-sqlite-mono.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOYO-PC\\.nuget\\packages\\mono.data.sqlite.portable\\1.0.3.5\\mono.data.sqlite.portable.1.0.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}

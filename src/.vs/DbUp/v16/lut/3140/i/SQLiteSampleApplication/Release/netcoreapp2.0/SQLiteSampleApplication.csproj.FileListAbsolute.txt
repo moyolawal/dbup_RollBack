@@ -1,0 +1,10 @@
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.deps.json
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.runtimeconfig.json
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.runtimeconfig.dev.json
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\b\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.dll
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\SQLiteSampleApplication\Release\netcoreapp2.0\SQLiteSampleApplication.genruntimeconfig.cache

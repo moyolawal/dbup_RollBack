@@ -1,0 +1,2 @@
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-redshift\Release\net35\dbup-redshift.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\.vs\DbUp\v16\lut\0\i\dbup-redshift\Release\net35\dbup-redshift.AssemblyInfo.cs

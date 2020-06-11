@@ -1,0 +1,12 @@
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\bin\Release\net40\dbup-firebird.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\bin\Release\net40\dbup-firebird.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\bin\Release\net40\FirebirdSql.Data.FirebirdClient.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\bin\Release\net40\dbup-core.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\bin\Release\net40\dbup-core.pdb
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\obj\Release\net40\dbup-firebird.csprojAssemblyReference.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\obj\Release\net40\dbup-firebird.AssemblyInfoInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\obj\Release\net40\dbup-firebird.AssemblyInfo.cs
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\obj\Release\net40\dbup-firebird.csproj.CoreCompileInputs.cache
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\obj\Release\net40\dbup-firebird.csproj.CopyComplete
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\obj\Release\net40\dbup-firebird.dll
+G:\VS\DbUp-master-original\DbUp-master\src\dbup-firebird\obj\Release\net40\dbup-firebird.pdb

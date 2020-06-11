@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pMq6kzaKS4523yzSswm3RQPO3yRugfvybNwzP0vPUlORgmDSnThX7sovf8ooqwK8lj0iftwKHJP5It+vhNEAzQ==",
+  "success": true,
+  "projectFilePath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlce\\dbup-sqlce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOYO-PC\\.nuget\\packages\\microsoft.sqlserver.compact\\4.0.8876.1\\microsoft.sqlserver.compact.4.0.8876.1.nupkg.sha512"
+  ],
+  "logs": []
+}

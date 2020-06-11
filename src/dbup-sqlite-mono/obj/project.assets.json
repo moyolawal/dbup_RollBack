@@ -1,0 +1,209 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "Mono.Data.Sqlite.Portable/1.0.3.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Data",
+          "System.Transactions"
+        ],
+        "compile": {
+          "lib/net4/Mono.Data.Sqlite.dll": {},
+          "lib/net4/System.Data.Portable.dll": {},
+          "lib/net4/System.Transactions.Portable.dll": {}
+        },
+        "runtime": {
+          "lib/net4/Mono.Data.Sqlite.dll": {},
+          "lib/net4/System.Data.Portable.dll": {},
+          "lib/net4/System.Transactions.Portable.dll": {}
+        }
+      },
+      "dbup-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v3.5",
+        "compile": {
+          "bin/placeholder/dbup-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dbup-core.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5": {
+      "Mono.Data.Sqlite.Portable/1.0.3.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Data",
+          "System.Transactions"
+        ],
+        "compile": {
+          "lib/net4/Mono.Data.Sqlite.dll": {},
+          "lib/net4/System.Data.Portable.dll": {},
+          "lib/net4/System.Transactions.Portable.dll": {}
+        },
+        "runtime": {
+          "lib/net4/Mono.Data.Sqlite.dll": {},
+          "lib/net4/System.Data.Portable.dll": {},
+          "lib/net4/System.Transactions.Portable.dll": {}
+        }
+      },
+      "dbup-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "compile": {
+          "bin/placeholder/dbup-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dbup-core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mono.Data.Sqlite.Portable/1.0.3.5": {
+      "sha512": "K9firU6nVyjwwpqr6aRJLNawao5bdRxr0AOfn/9bcwf2op02YOgCqNQ36fb9n7+O6F5spUAKky18/fBMqvXujA==",
+      "type": "package",
+      "path": "mono.data.sqlite.portable/1.0.3.5",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/netcore/Mono.Data.Sqlite.Portable.props",
+        "build/wp8/Mono.Data.Sqlite.Portable.props",
+        "lib/MonoAndroid/System.Data.Portable.dll",
+        "lib/MonoAndroid/System.Transactions.Portable.dll",
+        "lib/MonoTouch/System.Data.Portable.dll",
+        "lib/MonoTouch/System.Transactions.Portable.dll",
+        "lib/XamariniOS/System.Data.Portable.dll",
+        "lib/XamariniOS/System.Transactions.Portable.dll",
+        "lib/net4/Mono.Data.Sqlite.dll",
+        "lib/net4/System.Data.Portable.dll",
+        "lib/net4/System.Transactions.Portable.dll",
+        "lib/netcore/System.Data.Portable.dll",
+        "lib/netcore/System.Transactions.Portable.dll",
+        "lib/portable-net4+sl5+wp8+win+MonoAndroid+MonoTouch+XamariniOS/Mono.Data.Sqlite.dll",
+        "lib/portable-net4+sl5+wp8+win+MonoAndroid+MonoTouch+XamariniOS/System.Data.Portable.dll",
+        "lib/portable-net4+sl5+wp8+win+MonoAndroid+MonoTouch+XamariniOS/System.Transactions.Portable.dll",
+        "lib/sl5/Community.CsharpSqlite.Silverlight.dll",
+        "lib/sl5/Mono.Data.Sqlite.dll",
+        "lib/sl5/MonoDataSqliteWrapper.dll",
+        "lib/sl5/System.Data.Portable.dll",
+        "lib/sl5/System.Transactions.Portable.dll",
+        "lib/wp8/System.Data.Portable.dll",
+        "lib/wp8/System.Transactions.Portable.dll",
+        "mono.data.sqlite.portable.1.0.3.5.nupkg.sha512",
+        "mono.data.sqlite.portable.nuspec",
+        "tools/Mono.Data.Sqlite.Portable.targets",
+        "tools/install.ps1",
+        "tools/lib/netcore-arm/Mono.Data.Sqlite.dll",
+        "tools/lib/netcore-arm/MonoDataSqliteWrapper.dll",
+        "tools/lib/netcore-arm/MonoDataSqliteWrapper.lib",
+        "tools/lib/netcore-arm/MonoDataSqliteWrapper.winmd",
+        "tools/lib/netcore-x86/Mono.Data.Sqlite.dll",
+        "tools/lib/netcore-x86/MonoDataSqliteWrapper.dll",
+        "tools/lib/netcore-x86/MonoDataSqliteWrapper.lib",
+        "tools/lib/netcore-x86/MonoDataSqliteWrapper.winmd",
+        "tools/lib/wp8-arm/Mono.Data.Sqlite.dll",
+        "tools/lib/wp8-arm/MonoDataSqliteWrapper.dll",
+        "tools/lib/wp8-arm/MonoDataSqliteWrapper.lib",
+        "tools/lib/wp8-arm/MonoDataSqliteWrapper.winmd",
+        "tools/lib/wp8-x86/Mono.Data.Sqlite.dll",
+        "tools/lib/wp8-x86/MonoDataSqliteWrapper.dll",
+        "tools/lib/wp8-x86/MonoDataSqliteWrapper.lib",
+        "tools/lib/wp8-x86/MonoDataSqliteWrapper.winmd",
+        "tools/netcore45/install.ps1",
+        "tools/netcore45/uninstall.ps1",
+        "tools/netcore451/install.ps1",
+        "tools/netcore451/uninstall.ps1",
+        "tools/uninstall.ps1",
+        "tools/wp8/install.ps1",
+        "tools/wp8/uninstall.ps1"
+      ]
+    },
+    "dbup-core/1.0.0": {
+      "type": "project",
+      "path": "../dbup-core/dbup-core.csproj",
+      "msbuildProject": "../dbup-core/dbup-core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "Mono.Data.Sqlite.Portable >= 1.0.3.5",
+      "dbup-core >= 1.0.0"
+    ],
+    ".NETFramework,Version=v4.5": [
+      "Mono.Data.Sqlite.Portable >= 1.0.3.5",
+      "dbup-core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MOYO-PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlite-mono\\dbup-sqlite-mono.csproj",
+      "projectName": "dbup-sqlite-mono",
+      "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlite-mono\\dbup-sqlite-mono.csproj",
+      "packagesPath": "C:\\Users\\MOYO-PC\\.nuget\\packages\\",
+      "outputPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-sqlite-mono\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\MOYO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40",
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "projectReferences": {
+            "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj": {
+              "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj"
+            }
+          }
+        },
+        "net45": {
+          "projectReferences": {
+            "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj": {
+              "projectPath": "G:\\VS\\DbUp-master-original\\DbUp-master\\src\\dbup-core\\dbup-core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "dependencies": {
+          "Mono.Data.Sqlite.Portable": {
+            "target": "Package",
+            "version": "[1.0.3.5, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      },
+      "net45": {
+        "dependencies": {
+          "Mono.Data.Sqlite.Portable": {
+            "target": "Package",
+            "version": "[1.0.3.5, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
